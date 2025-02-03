@@ -77,3 +77,4 @@ docs/_build/
 
 # Temporary SHAP HTML file
 temp_shap.html
+shap_explanation.html
