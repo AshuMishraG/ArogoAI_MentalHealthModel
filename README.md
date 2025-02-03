@@ -1,17 +1,6 @@
 # Arogo AI - Self-Analysis Mental Health Predictor
 
-![Terminal View](screenshots/screenshot1.png)
-_Terminal View_
-
-![UI View](screenshots/screenshot2.png)
-_UI View_
-
-![SHAP View](screenshots/screenshot3.png)
-_SHAP View_
-
 Welcome to the Arogo AI project! This project is part of the AI/ML Engineer Intern Assignment and focuses on developing a self-analysis mental health model that predicts possible mental health conditions based on user-provided symptoms. The model emphasizes accuracy, interpretability (using SHAP), and efficiency, and is designed for seamless integration into chatbots or applications.
-
----
 
 ## Table of Contents
 
@@ -24,6 +13,17 @@ Welcome to the Arogo AI project! This project is part of the AI/ML Engineer Inte
 -  [Usage Instructions](#usage-instructions)
 -  [Kaggle Dataset](#kaggle-dataset)
 -  [Additional Notes](#additional-notes)
+
+---
+
+![Terminal View](screenshots/screenshot1.png)
+_Terminal View_
+
+![UI View](screenshots/screenshot2.png)
+_UI View_
+
+![SHAP View](screenshots/screenshot3.png)
+_SHAP View_
 
 ---
 
@@ -86,8 +86,8 @@ The best performing model is selected (saved as `models/best_model.pkl`) and was
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/AshuMishraG/ArogoAI_MentalHealthModel
+   cd https://github.com/AshuMishraG/ArogoAI_MentalHealthModel
    ```
 2. **Create a virtual environment (optional but recommended)**:
    ```bash
